@@ -67,23 +67,13 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Private class fields | 👂 heard | ⟶  | 🎓 known |
-| Private class methods | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `70` of `72` skills, `2` to be upgraded, and `69` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `71` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Property descriptors | 👂 heard | ⟶  | 🎓 known |
-| Sealing properties | 👂 heard | ⟶  | 🎓 known |
-| Freezing properties | 👂 heard | ⟶  | 🎓 known |
-| Computed properties | 👂 heard | ⟶  | 🎓 known |
-| Instance class fields | 👂 heard | ⟶  | 🎓 known |
-| Static class fields | 👂 heard | ⟶  | 🎓 known |
-| Private class fields | 👂 heard | ⟶  | 🎓 known |
-| Private class methods | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `90` of `98` skills, `8` to be upgraded, and `88` above needed
+Total: you have `98` of `98` skills, `0` to be upgraded, and `96` above needed
 
 ## [Async](/Skills/Async.md)
 
